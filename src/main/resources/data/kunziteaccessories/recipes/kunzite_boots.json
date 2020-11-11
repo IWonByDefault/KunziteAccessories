@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "k k",
+    "k k"
+  ],
+  "key":
+  {
+    "k":
+    {
+      "item": "kunziteaccessories:kunzite"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:kunzite_boots",
+    "count": 1
+  }
+}

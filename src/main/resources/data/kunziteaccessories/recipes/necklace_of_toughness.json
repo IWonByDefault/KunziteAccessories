@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:kunzite_necklace"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_toughness",
+    "count": 1
+  }
+}

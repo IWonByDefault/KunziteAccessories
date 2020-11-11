@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "nnn",
+    "n n",
+    "nin"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "kunziteaccessories:infused_kunzite"
+    },
+    "n":
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_curiosity",
+    "count": 1
+  }
+}

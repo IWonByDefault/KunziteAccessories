@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:kunzite_block"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:kunzite",
+    "count": 9
+  }
+}

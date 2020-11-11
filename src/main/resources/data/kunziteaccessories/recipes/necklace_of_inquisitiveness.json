@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:necklace_of_perception"
+    },
+    {
+      "item": "kunzite_accessories:kunzite"
+    },
+    {
+      "item": "kunzite_accessories:kunzite"
+    },
+    {
+      "item": "kunzite_accessories:infusion_of_inquisitiveness"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_inquisitiveness",
+    "count": 1
+  }
+}

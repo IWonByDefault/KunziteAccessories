@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:necklace_of_toughness"
+    },
+    {
+      "item": "kunzite_accessories:kunzite"
+    },
+    {
+      "item": "kunzite_accessories:kunzite"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_vigor",
+    "count": 1
+  }
+}

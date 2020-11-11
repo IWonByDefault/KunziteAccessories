@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "lkl",
+    "kek",
+    "lkl"
+  ],
+  "key":
+  {
+    "k":
+    {
+      "item": "kunziteaccessories:kunzite"
+    },
+    "l":
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "e":
+    {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:infused_kunzite",
+    "count": 1
+  }
+}

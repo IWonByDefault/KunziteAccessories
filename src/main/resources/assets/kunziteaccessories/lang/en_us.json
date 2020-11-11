@@ -1,0 +1,41 @@
+{
+  "item.kunziteaccessories.kunzite": "Kunzite",
+  "item.kunziteaccessories.kunzite_nugget": "Kunzite Nugget",
+  "item.kunziteaccessories.infused_kunzite": "Infused Kunzite",
+  "item.kunziteaccessories.kunzite_beetroot": "Kunzite Beetroot",
+  "item.kunziteaccessories.infusion_of_strength": "Infusion of Strength",
+  "item.kunziteaccessories.infusion_of_endurance": "Infusion of Endurance",
+  "item.kunziteaccessories.infusion_of_inquisitiveness": "Infusion of Inquisitiveness",
+
+  "item.kunziteaccessories.kunzite_necklace": "Kunzite Necklace",
+  "item.kunziteaccessories.necklace_of_might": "Necklace of Might",
+  "item.kunziteaccessories.necklace_of_power": "Necklace of Power",
+  "item.kunziteaccessories.necklace_of_strength": "Necklace of Strength",
+  "item.kunziteaccessories.necklace_of_brutality": "Necklace of Brutality",
+  "item.kunziteaccessories.necklace_of_ruthlessness": "Necklace of Ruthlessness",
+  "item.kunziteaccessories.necklace_of_toughness": "Necklace of Toughness",
+  "item.kunziteaccessories.necklace_of_vigor": "Necklace of Vigor",
+  "item.kunziteaccessories.necklace_of_endurance": "Necklace of Endurance",
+  "item.kunziteaccessories.necklace_of_courage": "Necklace of Courage",
+  "item.kunziteaccessories.necklace_of_perseverance": "Necklace of Perseverance",
+  "item.kunziteaccessories.necklace_of_curiosity": "Necklace of Curiosity",
+  "item.kunziteaccessories.necklace_of_perception": "Necklace of Perception",
+  "item.kunziteaccessories.necklace_of_inquisitiveness": "Necklace of Inquisitiveness",
+  "item.kunziteaccessories.necklace_of_knowledge": "Necklace of Knowledge",
+  "item.kunziteaccessories.necklace_of_wisdom": "Necklace of Wisdom",
+
+  "item.kunziteaccessories.kunzite_sword": "Kunzite Sword",
+  "item.kunziteaccessories.kunzite_pickaxe": "Kunzite Pickaxe",
+  "item.kunziteaccessories.kunzite_shovel": "Kunzite Shovel",
+  "item.kunziteaccessories.kunzite_axe": "Kunzite Axe",
+  "item.kunziteaccessories.kunzite_hoe": "Kunzite Hoe",
+  "item.kunziteaccessories.kunzite_helmet": "Kunzite Helmet",
+  "item.kunziteaccessories.kunzite_chestplate": "Kunzite Chestplate",
+  "item.kunziteaccessories.kunzite_leggings": "Kunzite Leggings",
+  "item.kunziteaccessories.kunzite_boots": "Kunzite Boots",
+
+  "block.kunziteaccessories.kunzite_block": "Kunzite Block",
+  "block.kunziteaccessories.kunzite_ore": "Kunzite Ore",
+
+  "itemGroup.kunzitetab": "Kunzite Accessories"
+}

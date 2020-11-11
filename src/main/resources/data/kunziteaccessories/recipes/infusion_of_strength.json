@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:infusion_of_strength",
+    "count": 1
+  }
+}

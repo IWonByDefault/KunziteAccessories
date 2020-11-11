@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "k k",
+    "kkk",
+    "kkk"
+  ],
+  "key":
+  {
+    "k":
+    {
+      "item": "kunziteaccessories:kunzite"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:kunzite_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kunziteaccessories:kunzite_ore"
+  },
+  "result": "kunziteaccessories:kunzite_nugget",
+  "experience": 3.0,
+  "cookingtime": 200
+}

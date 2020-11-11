@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:glistening_melon"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:infusion_of_endurance",
+    "count": 1
+  }
+}

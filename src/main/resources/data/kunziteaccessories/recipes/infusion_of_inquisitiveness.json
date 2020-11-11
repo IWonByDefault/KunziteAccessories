@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:nautilus_shell"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:infusion_of_inquisitiveness",
+    "count": 1
+  }
+}

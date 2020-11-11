@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "kkk",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "k":
+    {
+      "item": "kunziteaccessories:kunzite"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:kunzite_pickaxe",
+    "count": 1
+  }
+}

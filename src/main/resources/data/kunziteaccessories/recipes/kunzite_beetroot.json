@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "pgp",
+    "kbk",
+    "pkp"
+  ],
+  "key":
+  {
+    "k":
+    {
+      "item": "kunziteaccessories:kunzite_nugget"
+    },
+    "b":
+    {
+      "item": "minecraft:beetroot"
+    },
+    "p":
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    "g":
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result":
+  {
+    "item": "kunziteaccessories:kunzite_beetroot",
+    "count": 1
+  }
+}

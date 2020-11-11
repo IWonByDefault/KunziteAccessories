@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:kunzite_necklace"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_might",
+    "count": 1
+  }
+}

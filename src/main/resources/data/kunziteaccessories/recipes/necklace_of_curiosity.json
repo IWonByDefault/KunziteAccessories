@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kunziteaccessories:kunzite_necklace"
+    },
+    {
+      "item": "minecraft:nautilus_shell"
+    }
+  ],
+  "result":
+  {
+    "item": "kunziteaccessories:necklace_of_curiosity",
+    "count": 1
+  }
+}
